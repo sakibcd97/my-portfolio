@@ -1,0 +1,41 @@
+body{
+    font-family: 'Bitter', serif;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav>ul{
+    display: flex;
+    align-items: center;
+}
+.nav-tittle{
+    color: brown;
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+nav a{
+    color: green;
+    text-decoration: none;
+}
+.h2{
+    font-size: 45px;
+    margin: 0px;
+    margin-left: 20px;
+
+}
+button{
+    background-color: brown;
+    color: aliceblue;
+    border-radius: 5px;
+    text-align: center;
+    border: 0;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Bitter', serif;
+
+}
